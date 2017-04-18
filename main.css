@@ -1,9 +1,10 @@
 #colorsitos{
-  width: 350px;
+  width: 250px;
   height: 144px;
   display:block;
-  font-size: 20px;
-  background: #000;
+  font-size: 14px;
+  display: block;
+  font-family: 'Poppins', sans-serif;
 }
 .amarillo{
   background: yellow;
@@ -11,6 +12,8 @@
   padding-right: : 100px;
   padding-left: 3.5px;
   padding-top: 4px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .rosa{
   background: #FF0080;
@@ -18,8 +21,6 @@
   padding-right: : 100px;
   padding-left: 3.5px;
   padding-top: 4px;
-  margin-left: 1px;
-  margin-right: 1px;
-  margin-top: 1px;
-  margin-bottom: 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
